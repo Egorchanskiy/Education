@@ -1,0 +1,8 @@
+==152845== HEAP SUMMARY:
+==152845==     in use at exit: 0 bytes in 0 blocks
+==152845==   total heap usage: 919 allocs, 919 frees, 2,339,694 bytes allocated
+==152845== 
+==152845== All heap blocks were freed -- no leaks are possible
+==152845== 
+==152845== For lists of detected and suppressed errors, rerun with: -s
+==152845== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
